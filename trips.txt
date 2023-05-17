@@ -1,0 +1,7 @@
+T123/Amman (AMM)/Tokyo (NRT)/30-8-2021
+T456/Amman (AMM)/Frankfurt (FRA)/1-9-2021
+T789/Amman (AMM)/San Francisco (SFO)/2-9-2021
+T231/Amman (AMM)/United States (USA)/26-3-2022
+T333/Amman (AMM)/USA/25-3-2022
+T156/Amman (AMM)/USA/9-4-2022
+T431/San Francisco/Amman (AMM)/26-3-2022
